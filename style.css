@@ -29,21 +29,21 @@ main{
 .step-box-img1{
   width:280px;
   height:150px;
-  background-image: url(../img/flow01.png);
+  background-image: url(./img/flow01.png);
   background-position: bottom;/* 復習しておく */
   background-size: cover;/* 復習しておく */
 }
 .step-box-img2{
   width:280px;
   height:150px;
-  background-image: url(../img/flow02.png);
+  background-image: url(./img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 .step-box-img3{
   width:280px;
   height:150px;
-  background-image: url(../img/flow03.png);
+  background-image: url(./img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
